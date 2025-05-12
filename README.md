@@ -11,3 +11,7 @@
 7. [Семинар 7 - Детекция и сопоставление ключевых точек](./seminars/seminar_07/Seminar_7.ipynb) **Домашнее задание**
 8. [Семинар 8 - Алгоритмы анализа стереопар изображений](./seminars/seminar_08/Seminar_8.ipynb)
 9. [Семинар 9 - Методы построения оптического потока по последовательности изображений](./seminars/seminar_09/Seminar_9.ipynb) **Домашнее задание**
+10. [Семинар 10 - Текстурный анализ изображений](./seminars/seminar_10/Seminar_10.ipynb)
+11. Семинар 11 (**Домашнее задание**):
+    - [часть 1 - Нейросетевое обнаружение объектов](https://drive.google.com/file/d/1GbiqADtVULha89v49hqC-eukKoadxIRV/view?usp=sharing)
+    - [часть 2 - Трекинг](https://drive.google.com/file/d/1RKB25LGQHCmnlXfxFkOYjMbv9CPBfToF/view?usp=sharing)
