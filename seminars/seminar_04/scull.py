@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-original_image_rgb = cv2.imread('data/the_ambassadors_skull_transformed.jpg')
-distorted_image_rgb = cv2.imread('data/the_ambassadors.jpg')
+original_image = cv2.imread('data/the_ambassadors_skull_transformed.jpg')
+distorted_image = cv2.imread('data/the_ambassadors.jpg')
 
 original_image_rgb = cv2.cvtColor(original_image, cv2.COLOR_BGR2RGB)
 distorted_image_rgb = cv2.cvtColor(distorted_image, cv2.COLOR_BGR2RGB)
